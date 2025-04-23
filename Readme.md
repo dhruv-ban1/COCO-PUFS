@@ -112,6 +112,5 @@ For questions or suggestions, please contact:
 
 - **Name**: Dhruv Bansal
 - **Email**: dhrubb22@iitk.ac.in
-- **GitHub**: [@janedoe](https://github.com/janedoe)
-
+- **GitHub**: [@dhruv](https://github.com/dhruv-ban1)
 ---
